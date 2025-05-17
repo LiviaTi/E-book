@@ -1,4 +1,4 @@
-<img src="./imagem.png" alt="Ebook Cover" width="300"/>
+<img src="./ebook-capa.png" alt="Ebook Cover" width="300"/>
 
 </br>
 📘 Diário dos Produtos Campeões — eBook Project
