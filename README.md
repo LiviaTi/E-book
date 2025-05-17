@@ -17,7 +17,6 @@
 
 <h2>📦 Repository Contents</h2>
 <ul>
-  <li><code>.docx</code> file (Word format) for easy editing.</li>
   <li>Final <code>.pdf</code> version ready for distribution.</li>
   <li>Original cover artwork and 3D mockup variations.</li>
   <li>Main copy designed for Facebook Ads.</li>
