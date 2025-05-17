@@ -1,51 +1,41 @@
+<h1> 📘 Diário dos Produtos Campeões — eBook Project </h1>
 <img src="./ebook-capa.png" alt="Ebook Cover" width="300"/>
 
-</br>
-📘 Diário dos Produtos Campeões — eBook Project
-This repository contains the full project of the "Champions’ Products Daily" eBook — a digital guide created for affiliates and digital marketers who want to stay updated on the top-selling products on Facebook Ads every single day.
+<p>
+  This repository contains the full project of the <strong>"Champions’ Products Daily"</strong> eBook — a digital guide created for affiliates and digital marketers who want to stay updated on the top-selling products on Facebook Ads every single day.
+</p>
 
-🎯 Purpose
-The goal of this project is to deliver a professional and visually appealing material that:
+<h2>🎯 Purpose</h2>
+<p>The goal of this project is to deliver a professional and visually appealing material that:</p>
+<ul>
+  <li>Showcases daily best-selling products.</li>
+  <li>Serves as a reference for affiliates, media buyers, and content creators.</li>
+  <li>Offers high-converting ad copy for free to boost campaign performance.</li>
+</ul>
 
-Showcases daily best-selling products.
+<h2>📦 Repository Contents</h2>
+<ul>
+  <li><code>.docx</code> file (Word format) for easy editing.</li>
+  <li>Final <code>.pdf</code> version ready for distribution.</li>
+  <li>Original cover artwork and 3D mockup variations.</li>
+  <li>Main copy designed for Facebook Ads.</li>
+  <li>Visual assets and design references used in the project.</li>
+</ul>
 
-Serves as a reference for affiliates, media buyers, and content creators.
+<h2>🧠 Target Audience</h2>
+<ul>
+  <li>Beginner and advanced affiliates</li>
+  <li>Paid traffic specialists</li>
+  <li>Copywriters</li>
+  <li>Digital product creators</li>
+  <li>Marketing agencies</li>
+</ul>
 
-Offers high-converting ad copy for free to boost campaign performance.
-
-📦 Repository Contents
-.docx file (Word format) for easy editing.
-
-Final .pdf version ready for distribution.
-
-Original cover artwork and 3D mockup variations.
-
-Main copy designed for Facebook Ads.
-
-Visual assets and design references used in the project.
-
-🧠 Target Audience
-Beginner and advanced affiliates
-
-Paid traffic specialists
-
-Copywriters
-
-Digital product creators
-
-Marketing agencies
-
-✨ Highlights
-Modern cover with a digital-futuristic design
-
-Minimalist style and soft purple color palette
-
-Simulated performance metrics from Facebook Ads
-
-Free version includes access to one exclusive ad copy
-
-Paid version unlocks premium access to multiple high-performing copies
-
-🔗 License
-This project is licensed under the MIT License and may be freely used and modified for educational or commercial purposes, with proper attribution.
-
+<h2>✨ Highlights</h2>
+<ul>
+  <li>Modern cover with a digital-futuristic design</li>
+  <li>Minimalist style and soft purple color palette</li>
+  <li>Simulated performance metrics from Facebook Ads</li>
+  <li>Free version includes access to one exclusive ad copy</li>
+  <li>Paid version unlocks premium access to multiple high-performing copies</li>
+</ul>
