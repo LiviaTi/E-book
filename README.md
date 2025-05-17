@@ -1,5 +1,7 @@
 <h1> 📘 Diário dos Produtos Campeões — eBook Project </h1>
-<center></center><img src="./ebook-capa.png" alt="Ebook Cover" width="300"/></center>
+<p align="center">
+  <img src="./ebook-capa.png" alt="Ebook Cover" width="300"/>
+</p>
 
 <p>
   This repository contains the full project of the <strong>"Champions’ Products Daily"</strong> eBook — a digital guide created for affiliates and digital marketers who want to stay updated on the top-selling products on Facebook Ads every single day.
