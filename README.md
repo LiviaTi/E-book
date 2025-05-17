@@ -1,4 +1,4 @@
-![Ebook Cover](./ebook-capa.png)
+<img src="./imagem.png" alt="Ebook Cover" width="300"/>
 
 </br>
 📘 Diário dos Produtos Campeões — eBook Project
